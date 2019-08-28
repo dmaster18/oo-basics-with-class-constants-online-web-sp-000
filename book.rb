@@ -17,4 +17,4 @@ end
 
 odyssey = Book.new("The Odyssey", "Epic")
 fifty_shades = Book.new("Fifty Shades of Grey", "Romance")
-cujo = Book.new("Cujo")
+cujo = Book.new("Cujo", "Horror")
