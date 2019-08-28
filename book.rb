@@ -15,7 +15,7 @@ class Book
   end
   
   def genre
-    
+    GENRES
 end
 
 odyssey = Book.new("The Odyssey", "Epic")
