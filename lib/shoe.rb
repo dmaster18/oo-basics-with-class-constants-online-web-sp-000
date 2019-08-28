@@ -14,5 +14,16 @@ class Shoe
     self.condition = "new"
     puts "Your shoe is as good as new!"
   end
-
+  
+  def brands
+    @BRANDS = BRANDS
+    @BRANDS
+  end
 end
+
+adidas = Shoe.new("Adidas")
+nike = Shoe.new("Nike")
+reebok = Shoe.new("Reebok")
+nike2 = Shoe.new("Nike")
+new_balance = Shoe.new("New Balance")
+puts new_balance.brands
