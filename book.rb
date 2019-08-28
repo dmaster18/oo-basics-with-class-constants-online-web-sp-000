@@ -15,3 +15,4 @@ class Book
   end
 end
 
+odyssey = Book.new("The Odyssey", "Epic")
