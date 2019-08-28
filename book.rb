@@ -33,6 +33,7 @@ macbeth = Book.new("Macbeth", "Shakespearean Drama")
 new_hash = {"first_name" => "Bob", "last_name" => "Dole"}
 
 puts new_hash["first_name"]
+puts 
 
 puts macbeth.genre
 puts pride.genre_count
