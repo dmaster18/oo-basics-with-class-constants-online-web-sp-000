@@ -19,6 +19,7 @@ class Book
   end
   
   def genre_count
+    GENRES.length
   
 end
 
