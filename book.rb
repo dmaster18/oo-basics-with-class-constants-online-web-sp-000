@@ -30,11 +30,6 @@ angels = Book.new("Angels & Demons", "Action")
 pride = Book.new("Pride & Prejudice", "Drama")
 macbeth = Book.new("Macbeth", "Shakespearean Drama")
 
-new_hash = {"first_name" => "Bob", "last_name" => "Dole"}
-
-puts new_hash["first_name"]
-puts new_hash["last_name"]
-puts "#{new_hash.keys[0]}: #{new_hash.values[0]}"
 
 puts macbeth.genre
 puts pride.genre_count
