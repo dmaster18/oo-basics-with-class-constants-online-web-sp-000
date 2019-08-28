@@ -20,7 +20,7 @@ class Book
   
   def genre_count
     GENRES.length
-  
+  end  
 end
 
 odyssey = Book.new("The Odyssey", "Epic")
