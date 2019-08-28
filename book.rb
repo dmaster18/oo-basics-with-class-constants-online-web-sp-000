@@ -30,7 +30,7 @@ angels = Book.new("Angels & Demons", "Action")
 pride = Book.new("Pride & Prejudice", "Drama")
 macbeth = Book.new("Macbeth", "Shakespearean Drama")
 
-new_hash = {:name => "address, 
+new_hash = {name: => "address, 
 
 puts macbeth.genre
 puts pride.genre_count
