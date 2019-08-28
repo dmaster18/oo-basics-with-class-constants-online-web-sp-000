@@ -34,6 +34,7 @@ new_hash = {"first_name" => "Bob", "last_name" => "Dole"}
 
 puts new_hash["first_name"]
 puts new_hash["last_name"]
+puts 
 
 puts macbeth.genre
 puts pride.genre_count
