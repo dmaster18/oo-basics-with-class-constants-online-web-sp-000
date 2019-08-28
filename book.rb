@@ -30,7 +30,7 @@ angels = Book.new("Angels & Demons", "Action")
 pride = Book.new("Pride & Prejudice", "Drama")
 macbeth = Book.new("Macbeth", "Shakespearean Drama")
 
-new_hash = {first_name: "Bob", last_name: "Dole"
+new_hash = {first_name: "Bob", last_name: "Dole"}
 
 
 puts macbeth.genre
