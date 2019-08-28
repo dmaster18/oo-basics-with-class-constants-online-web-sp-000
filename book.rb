@@ -16,4 +16,4 @@ class Book
 end
 
 odyssey = Book.new("The Odyssey", "Epic")
-fifty_shades
+fifty_shades = Book.new("Fifty Shades of Grey", "Romance")
