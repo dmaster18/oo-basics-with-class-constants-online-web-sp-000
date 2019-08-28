@@ -14,7 +14,7 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
   
-  
+  def genre
 end
 
 odyssey = Book.new("The Odyssey", "Epic")
