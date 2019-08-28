@@ -1,2 +1,2 @@
 class Book
-  attr_accessor :author, :page
+  attr_accessor :author, :page_count
