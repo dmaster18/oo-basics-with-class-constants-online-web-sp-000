@@ -26,4 +26,4 @@ angels = Book.new("Angels & Demons", "Action")
 pride = Book.new("Pride & Prejudice", "Drama")
 macbeth = Book.new("Macbeth", "Shakespearean Drama")
 
-puts Book.genre
+puts macbeth.genre
