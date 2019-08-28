@@ -15,7 +15,7 @@ class Book
   end
   
   def genre
-    GENRES
+    GENRES.length
   end
 end
 
